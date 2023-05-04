@@ -1,4 +1,4 @@
-# VaR-of-a-Stock-Portfolio-
+# VaR of a Stock Portfolio
 
 Value at Risk (VaR) is a statistic that quantifies the possibke extent of the financial losses within a portofolio over a specific period of time. Risk managers use this measure adn control the level of risk exposure.
 
